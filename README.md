@@ -62,3 +62,17 @@ The Excel file containing the dataset, analysis, pivot tables, and dashboard is 
 *Jamil Khatri*
 
 Computer Engineering Student
+
+## 📸 Dashboard Preview
+
+### Dashboard Overview
+![Dashboard Overview](Screenshot%202026-09-11%20191826.png)
+
+### Sales Analysis
+![Sales Analysis](Screenshot%202026-09-11%20191949.png)
+
+### Detailed Analysis
+![Detailed Analysis](Screenshot%202026-09-11%20192021.png)
+
+### Insights & Recommendations
+![Insights & Recommendations](Screenshot%202026-09-11%20192041.png)
